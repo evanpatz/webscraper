@@ -1,4 +1,5 @@
 # webscraper
+# The general web scraper. Specific info from the website must be entered below.
 
 import urllib.request
 
